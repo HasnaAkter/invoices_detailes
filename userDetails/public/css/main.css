@@ -1,0 +1,186 @@
+/* 
+     /* body{
+        background-color: bisque;
+     }
+     .form-group{
+        padding-left: 5px;
+     }
+     .form{
+        padding-left: 5px;
+     }
+     /* .row{
+        padding-left: 10px;
+     } */
+/* #row-id{
+padding-top: ;
+} */
+/* .container-fluid{
+    /* 
+     */
+   #main-id{
+    /* border: 5px solid black; */
+    background-color: white;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    /* display: flex; */
+   }
+   #BillSum{
+    border: 1px solid gray;
+    border-radius: 10px;
+    /* padding: 12px;
+    height:50px; */
+    /* background-color: green; */
+    
+   }
+   #st-id{
+    padding: 3px;
+    
+   }
+   #dis-id{
+   
+    padding:12px;
+    padding-right: 0px;
+   }
+   #np-id{
+    padding-left: 10px;
+    padding-right: 5px;
+    
+   }
+
+   #ra-id{
+    padding:15px;
+
+   }
+
+   #pv-id{
+    padding:15px;
+   }
+
+   #remarks{
+    padding:15px;
+   }
+
+   #tax-id{
+    padding:5px;
+    display: inline-block;
+    padding-top: 0px;
+    
+   }
+   #dis-id1{
+   display: inline-flexbox;
+   }
+   #create-bill{
+    padding-left: 640px;
+   }
+
+   #bill-details{
+    background-color: whitesmoke;
+    font-size: 20px;
+    font-weight: bold;
+    
+   }
+
+   #report-id{
+    background-color: whitesmoke;
+    font-size: 20px;
+    font-weight: bold;
+    
+    
+   }
+
+   #t1{
+    background-color: whitesmoke;
+    
+   }
+
+   .img1{
+      height:40px;
+      width:30px;
+      
+   }
+
+   .img2{
+      height:25px;
+      width:25px;
+      
+   }
+
+   .img3{
+      height:20px;
+      width:20px;
+      
+   }
+
+   .btn1{
+      font-size: 15px;
+    
+   }
+   #create-btn-cls{
+      background-color: whitesmoke;
+      
+   }
+   /* #create-bill-cls{
+    
+   } */
+   .img4{
+      height:20px;
+      width: 20px;
+   }
+   .btn-last{
+      float: right; 
+      top: 20%;
+      transform: translateY(-50%); /*puts the button in the middle*/
+      width: 300px;
+     
+
+   }
+
+   /* .c1{ 
+      height: 5px;
+   }   */
+
+    #close{
+    height:35px;
+    width:20px;
+    
+   } 
+
+   #deletebtn{
+      height:25px;
+      width: 25px;
+   }
+   /* .update{
+      size-adjust: 50%;
+   }
+
+   
+
+ */
+ #bs{
+   background-color: whitesmoke;
+   font-size: 20px;
+   font-weight: bold;
+ }
+
+ #billSumCont{
+   height:5px;
+ }
+
+ /* #new-row{
+   background-color: blue;
+ } */
+
+ .input-group{
+   position:relative;
+   display:table;
+   border-collapse:separate;
+
+ }
+
+ #create-btn-cls{
+   background-color: whitesmoke;
+ }
+
+ 
